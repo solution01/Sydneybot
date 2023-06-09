@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=SYDNEY BOT✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2023">      
-
 <h1 align="center">
 <p>
 <img src= "https://telegra.ph/file/155917d45be1182678b34.jpg" alt="Sydney Bot✓" width="720">
