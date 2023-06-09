@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐎𝐓+𝐕6.9.5✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2023;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=SYDNEY BOT✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2023">      
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/314f7d5d2c494db3a7b82.jpg" alt="SAKURA-BOT V6.9.5✓" width="720">
+<img src= "https://telegra.ph/file/155917d45be1182678b34.jpg" alt="Sydney Bot✓" width="720">
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@ cd /sdcard/
 ```
 **💮4° Comando✓**
 ```
-git clone https://github.com/Scheyot2/sakura-botv6.9.5.git
+git clone https://github.com/solution01/Sydneybot.git
 ```
 **💮5° Comando✓**
 ```
-cd /sdcard/mashle-bot
+cd /sdcard/Sydneybot
 ```
 
 ## 🦄•INICIAR A BOT•🦄 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
@@ -47,6 +47,6 @@ cd /sdcard/mashle-bot
 ```
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FA9A&center=falso&vCenter=falso&lines=𝖆+𝕽𝖊𝖆𝖑𝖊𝖟𝖆+𝕯𝖔𝖒𝖎𝖓𝖆^-^;@M.Scheyot+@Rafael+(⁠ノ⁠^⁠_⁠^⁠)⁠ノ;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">     
+
 
 
